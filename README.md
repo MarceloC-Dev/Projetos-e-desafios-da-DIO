@@ -1,3 +1,5 @@
-# Projetos-e-desafios-da-DIO
-Seja bem-vindo aqui nesse repositório você vai encontrar alguns projeos e desafios que fiz durante os estudos na DIO!
-##  Ptojetos  que você vai encontr por aqui:
+# Projetos e Desafios da DIO!
+
+Seja vem-vindo! Nesse  repositrio voce encontrara alguns projetos e desafios que fiz durante os estudos na DIO!
+
+## Projetos que voce encontra aqui:
