@@ -1,2 +1,3 @@
 # Projetos-e-desafios-da-DIO
-Nesse repositório você encontra meus projetos e desafio da DIO, e minha evolução nos estudos e carreira dev
+Seja bem-vindo aqui nesse repositório você vai encontrar alguns projeos e desafios que fiz durante os estudos na DIO!
+##  Ptojetos  que você vai encontr por aqui:
